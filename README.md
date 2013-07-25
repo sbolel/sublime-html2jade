@@ -1,18 +1,18 @@
-# HTML to Haml plugin for Sublime Text 3
+# HTML to JADE plugin for Sublime Text 3
 
-Converts files, selection and clipboard content from HTML or ERB to HAML using http://html2haml.heroku.com API
+Converts files, selection and clipboard content from HTML to JADE using html2jade
 
 ## Installation
 
 ### [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 
-In the command Pallette choose **Package Control: Install Repository** and select **HTML2Haml**
+In the command Pallette choose **Package Control: Install Repository** and select **HTML2Jade**
 
 ### Git installation
 
 Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone https://github.com/pavelpachkovskij/sublime-html-to-haml.git "HTML2Haml"
+    git clone https://github.com/anderson916/sublime-html-to-jade.git "HTML2Jade"
 
 The "Packages" directory is located at:
 
@@ -30,16 +30,16 @@ The "Packages" directory is located at:
 
 ## Usage
 
-* **Convert hole ERB or HTML file** `Shift+Alt+F` - creates new file in the same folder using the same name as the source ending with '.html.haml'.
-* **Convert selection** `Shift+Alt+S` - replaces selection of HTML or ERB with HAML content.
-* **Convert clipboard content** `Shift+Alt+V` - inserts HAML of converted clipboard HTML or ERB content.
+* **Convert hole ERB or HTML file** `Shift+Alt+F` - creates new file in the same folder using the same name as the source ending with '.html.jade'.
+* **Convert selection** `Shift+Alt+S` - replaces selection of HTML with JADE content.
+* **Convert clipboard content** `Shift+Alt+V` - inserts JADE of converted clipboard HTML content.
 
 ### In Command Palette:
 
-* **HTML2Haml: Convert file**
-* **HTML2Haml: Convert selection**
-* **HTML2Haml: Convert clipboard content**
+* **HTML2Jade: Convert file**
+* **HTML2Jade: Convert selection**
+* **HTML2Jade: Convert clipboard content**
 
 ## Sublime Text 2
 
-Follow the instruction from [Sublime Text 2 branch](https://github.com/pavelpachkovskij/sublime-html-to-haml/tree/SublimeText2)
+Follow the instruction from [Sublime Text 2 branch](https://github.com/pavelpachkovskij/sublime-html-to-jade/tree/SublimeText2)
