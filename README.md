@@ -6,13 +6,13 @@ Converts files, selection and clipboard content from HTML to JADE using html2jad
 
 ### [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 
-In the command Pallette choose **Package Control: Install Repository** and select **HTML2Jade**
+In the command Pallette choose **Package Control: Install Repository** and select **HTML2Jade for 2 && 3**
 
 ### Git installation
 
 Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone https://github.com/anderson916/sublime-html-to-jade.git "HTML2Jade"
+    git clone https://github.com/anderson916/sublime-html2jade.git "HTML2Jade"
 
 The "Packages" directory is located at:
 
