@@ -30,7 +30,7 @@ The "Packages" directory is located at:
 
 ## Usage
 
-* **Convert hole ERB or HTML file** `Shift+Alt+F` - creates new file in the same folder using the same name as the source ending with '.html.jade'.
+* **Convert whole HTML file** `Shift+Alt+F` - creates new file in the same folder using the same name as the source ending with '.html'.
 * **Convert selection** `Shift+Alt+S` - replaces selection of HTML with JADE content.
 * **Convert clipboard content** `Shift+Alt+V` - inserts JADE of converted clipboard HTML content.
 
