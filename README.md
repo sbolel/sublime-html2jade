@@ -12,7 +12,11 @@ In the command Pallette choose **Package Control: Install Repository** and selec
 
 Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone https://github.com/anderson916/sublime-html2jade.git Html2Jade
+    git clone https://github.com/dflourusso/sublime-html2jade.git Html2Jade
+    
+Install *html2jade*:
+
+    npm install -g html2jade
 
 The "Packages" directory is located at:
 
