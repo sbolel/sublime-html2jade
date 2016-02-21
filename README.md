@@ -6,7 +6,18 @@ Converts files, selection and clipboard content from HTML to JADE using html2jad
 
 ### [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 
-In the command Pallette choose **Package Control: Install Repository** and select **HTML2Jade for 2 && 3**
+In the command Pallette choose **Package Control: Add Repository** and enter the Github URL:
+
+    https://github.com/anderson916/sublime-html2jade
+    
+Then choose **Package Control: Install Package** and select sublime-html2jade to install.
+
+Install *html2jade*:
+
+    npm install -g html2jade
+    
+On OSX sublime text does not use the same path as your shell, you might need to install the
+"Fix Mac Path" package via Package Control.
 
 ### Git installation
 
