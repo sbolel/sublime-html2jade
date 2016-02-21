@@ -47,7 +47,7 @@ class HTHTools:
     @classmethod
     def convertHTML2Jade(self, contents):
         html2jade = subprocess.Popen(
-            '~/.node/bin/html2jade --noemptypipe --bodyless --noattrcomma',
+            'html2jade --noemptypipe --bodyless --noattrcomma',
             stdin=subprocess.PIPE,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
