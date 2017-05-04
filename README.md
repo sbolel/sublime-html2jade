@@ -8,7 +8,7 @@ Converts files, selection and clipboard content from HTML to JADE using html2jad
 
 In the command Pallette choose **Package Control: Add Repository** and enter the Github URL:
 
-    https://github.com/sbolel/sublime-html2jade
+    https://github.com/sbolel/sublime3-html2jade
 
 Then choose **Package Control: Install Package** and select sublime-html2jade to install.
 
@@ -23,7 +23,7 @@ On OSX sublime text does not use the same path as your shell, you might need to 
 
 Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone https://github.com/sbolel/sublime-html2jade.git Html2Jade
+    git clone https://github.com/sbolel/sublime3-html2jade.git Html2Jade
 
 Install *html2jade*:
 
